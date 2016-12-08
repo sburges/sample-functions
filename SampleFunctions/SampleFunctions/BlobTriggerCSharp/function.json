@@ -1,0 +1,12 @@
+﻿{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "samples-workitems",
+      "connection": "DefaultEndpointsProtocol=https;AccountName=functionssample;AccountKey=phxj0RMmuORaiSofqjhT7BdHS0ocyGODU9xZn5tlTPpKoq85Wi4nrVW0A+MKNKAxqKhFKy0yLSx508PiKX5Czw=="
+    }
+  ]
+}
